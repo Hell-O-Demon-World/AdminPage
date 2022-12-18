@@ -1,0 +1,23 @@
+### Spring Security ###
+security:
+  user:
+    name: ENC(63WZpy9CngN/4ZPp134a4A==)
+    password: ENC(Puc4Y8EdmHM1JCno/VQDrizi3Eq19/noW2lHNrEMtr5hjAtpQ5JkhNwnio5WboBa6kHTQOAq/sacPRQM39pIGQdNWKnQz1Ta)
+    roles: ENC(yio+s1lOf2YcthENx1s+dg==)
+
+### Deploy Server ###
+spring:
+  datasource:
+    url: ENC(Kd8gucSZa2fANZAs40Z1Sok15LknDR5dmhI5YiUh50LKtwdopg4S/tnEDLLjgMdVJZZY6Rxsxa8ih+0N7g8rzA==)
+    username: ENC(YoNtqenM0QDQBWR47bpzJA+tDj6zkdUH)
+    password: ENC(xIBqFuUo5p8FZUZO0hOB5Hcvh3CDziNe)
+
+### KakaoMap Api Key ###
+kakao:
+  map:
+    apiKey: ENC(aWaJf4fwj6iqQ6yWO6EJ1dWIgEQ/0qNAsVUMlxODnZ+TAUaj+/+o8WcMHjfdIk9SzNOwqWMLs1I=)
+
+### jasyptStringEncoder ###
+jasypt:
+  encryptor:
+    bean: jasyptStringEncryptor
