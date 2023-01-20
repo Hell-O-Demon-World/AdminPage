@@ -1,10 +1,10 @@
 ### Deploy Server ###
 spring:
   datasource:
-    url: ENC(Kd8gucSZa2fANZAs40Z1Sok15LknDR5dmhI5YiUh50LKtwdopg4S/tnEDLLjgMdVJZZY6Rxsxa8ih+0N7g8rzA==)
-    username: ENC(YoNtqenM0QDQBWR47bpzJA+tDj6zkdUH)
-    password: ENC(xIBqFuUo5p8FZUZO0hOB5Hcvh3CDziNe)
-### Spring Security ###
+    url: ENC(8RGjgKwqoWxPXWWtozKImfcNo5GMUnCIMYvONc61FsNmKNqlVEmHnXVsHIEQBl9Ld7a/RJUCrSHzp7QxRKD0ldDBJju/8s6c)
+    username: ENC(IYZiiPFZ/d7XM0OxII/y5ZjgTPU7eKRJ)
+    password: ENC(tCx5PtshhUwYLTDIrXuItttIEB671nLL)
+  ### Spring Security ###
   security:
     user:
       name: ENC(63WZpy9CngN/4ZPp134a4A==)
